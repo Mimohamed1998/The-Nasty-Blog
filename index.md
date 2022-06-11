@@ -11,5 +11,5 @@ Why are you here. Go watch some random cat videos . Whay are you here . Whats wr
 </p>
 
 
-Never Mind . So time to time I do AI and ML projects and never keep a good record. So after a certain period of time , I forget the things that I have done . So I am starting blog to remember my stuff. So enjoy my blogs. But I again think why are you here. Whats wrong with you . May kaputas help you to improve your english after reading this blog
+Never Mind . So time to time I do AI and ML projects and never keep a good record. So after a certain period of time , I forget the things that I have done . So I am starting blog to remember my stuff. So enjoy my blogs. But  again think why are you here. Whats wrong with you . May kaputas help you to improve your english after reading this blog
 
