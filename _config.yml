@@ -6,6 +6,6 @@ author:
 description: "Why are you reading this. But whyy. Never Mind this is my blog on my data annalytics , AI and ML projects"
 
 # Build settings
-# remote_theme: jekyll/minima
+remote_theme: jekyll/minima
 
-remote_theme: benbalter/retlab
+
