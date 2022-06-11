@@ -10,6 +10,9 @@ title: About
 So time to time I do AI and ML projects and never keep a good record. So after a certain period of time , I forget the things that I have done . So I am starting blog to remember my stuff. 
 
 <p align="center">
+  <img src="[http://some_place.com/image.png](https://user-images.githubusercontent.com/77712136/173176727-c1e922d9-da2a-42f9-859d-f8220c23ec54.png)" />
+</p>
+<p align="center">
 ![image](https://user-images.githubusercontent.com/77712136/173176727-c1e922d9-da2a-42f9-859d-f8220c23ec54.png)
 </p>
 
